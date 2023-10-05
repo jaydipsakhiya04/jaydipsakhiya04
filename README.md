@@ -11,9 +11,7 @@
 
 - 🌱 I’m currently learning **Bachelor of Computer Applications**
 
-- 👯 I’m looking to collaborate on **Onvester**
-
-- 🤝 I’m looking for help with **Food App**
+- 👯 I’m looking to collaborate with **Onvester Tech Limited**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydipsakhiya04](https://github.com/jaydipsakhiya04)
 
