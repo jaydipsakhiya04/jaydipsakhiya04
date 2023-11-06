@@ -1,4 +1,4 @@
-![image](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/d2576112-f8cf-4e2e-b290-296c57cec69c)<h1 align="center">Hi 👋, I'm Jaydip Sakhiya</h1>
+<h1 align="center">Hi 👋, I'm Jaydip Sakhiya</h1>
 <h3 align="center">Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaydipsakhiya04&label=Profile%20views&color=0e75b6&style=flat" alt="jaydipsakhiya04" /> </p>
