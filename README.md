@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Bachelor of Computer Applications**
 
-- 💻 I’m working at **Binary Apptech**
+- 🏬 I’m working at **Binary Apptech**
   
-- 🏬 I’m also working with **Onvester Tech Limited**
+- 💻 I’m also working with **Onvester Tech Limited**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydipsakhiya04](https://github.com/jaydipsakhiya04)
 
