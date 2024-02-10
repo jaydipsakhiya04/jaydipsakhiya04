@@ -1,5 +1,6 @@
   
- ![a1](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/4cd58acd-c683-41b2-968b-7e7b61d19b15)
+ ![a2](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/8f045ffa-b95c-4968-9604-96dac09c7e98)
+
 
 
 <h1 align="center">Hi 👋, I'm Jaydip Sakhiya</h1>
