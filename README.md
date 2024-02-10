@@ -1,5 +1,5 @@
   
-![software-software-development](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/12065a56-5537-401c-8b8c-294ffb5307bb) 
+ ![a1](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/4cd58acd-c683-41b2-968b-7e7b61d19b15)
 
 
 <h1 align="center">Hi 👋, I'm Jaydip Sakhiya</h1>
