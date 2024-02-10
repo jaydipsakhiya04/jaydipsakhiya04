@@ -1,5 +1,5 @@
-
-![bg-github](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/f180b711-a242-4a9c-8233-16e89d23e959)
+  
+![software-software-development](https://github.com/jaydipsakhiya04/jaydipsakhiya04/assets/136619292/12065a56-5537-401c-8b8c-294ffb5307bb) 
 
 
 <h1 align="center">Hi 👋, I'm Jaydip Sakhiya</h1>
