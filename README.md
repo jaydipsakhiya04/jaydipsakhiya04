@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Bachelor of Computer Applications**
   
--  🏬 I’m working at **Onvester Tech Limited**
+-  🏬 I’m working at **LogicNest Solutions**
 
 - 👨‍💻 All of my projects are available at [https://github.com/jaydipsakhiya04](https://github.com/jaydipsakhiya04)
 
